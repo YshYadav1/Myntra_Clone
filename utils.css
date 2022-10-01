@@ -1,0 +1,65 @@
+.flex {
+    display: flex;
+}
+
+.items-center {
+    align-items: center;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.space-between {
+    justify-content: space-between;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.mx-2 {
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
+.mx-l5 {
+    margin-left: 50px;
+}
+
+.fonts {
+    font-family: 'Roboto', sans-serif;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.mlr-44 {
+    margin-left: 44px;
+    margin-right: 44px;
+}
+
+.line_height {
+    line-height: 25px;
+}
+
+.font-13 {
+    font-size: 13px;
+}
+
+.list_style_none {
+    list-style: none;
+}
+
+.mt-5 {
+    margin-top: 5px;
+}
+
+.margin_icons {
+    margin: 0px 3px;
+}
